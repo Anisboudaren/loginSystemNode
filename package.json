@@ -1,0 +1,24 @@
+{
+  "name": "login-system-node",
+  "version": "1.0.0",
+  "description": "a loging system using node js express and mysql",
+  "main": "login.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anisboudaren/loginSystemNode.git"
+  },
+  "author": "Anis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anisboudaren/loginSystemNode/issues"
+  },
+  "homepage": "https://github.com/Anisboudaren/loginSystemNode#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-session": "^1.17.3",
+    "mysql": "^2.18.1"
+  }
+}
